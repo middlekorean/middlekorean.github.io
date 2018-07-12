@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: https://middlekorean.minkyu.kim
 baseurl: # the subpath of your site, e.g. /blog
 title: 중세국어문헌집
 description: "중세국어 문헌들을 한곳에"
