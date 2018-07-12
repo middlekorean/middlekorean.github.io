@@ -13,7 +13,7 @@ html {
 body {
     font-family: $fonts-body;
     font-size: 24px;
-    line-height: 40px;
+    line-height: 1.5em;
 
     color: $color-text;
 }
@@ -40,7 +40,7 @@ h4 {
 .h1,
 h1 {
     font-size: 1.725em;
-    line-height: 42px;
+    line-height: 1.5em;
 
     margin-top: 42px;
     margin-bottom: 26px;
