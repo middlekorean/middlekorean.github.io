@@ -11,7 +11,7 @@ redirect_from:
 
 ## 世宗御製訓民正音
 
-<b>世<sup>솅</sup>宗<sup>조ᇰ</sup>御<sup>ᅌᅥᆼ</sup>製<sup>졩</sup>訓<sup>훈</sup>民<sup>민</sup>正<sup>졍</sup>音<sup>ᅙᅳᆷ</sup></b>
+<b>世<sup>솅</sup>宗<sup>조ᇰ</sup>御<sup>ᅌᅥᆼ</sup>製<sup>졩</sup>訓<sup>훈</sup>民<sup>민</sup>正<sup>져ᇰ</sup>音<sup>ᅙᅳᆷ</sup></b>
 
 <small>製ᄂᆞᆫ글지ᅀᅳᆯ씨니御製ᄂᆞᆫ님금지ᅀᅳ샨그리라訓ᄂᆞᆫᄀᆞᄅᆞ칠씨오民ᄂᆞᆫ百姓이오音ᄂᆞᆫ소리니訓民正音ᄂᆞᆫ百姓ᄀᆞᄅᆞ치시논正ᄒᆞᆫ소리라</small>
 
